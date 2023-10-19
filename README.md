@@ -12,7 +12,8 @@ I'm Kent, a full stack software developer. I'm in the industry for 6 years.
 - 🚩 Frameworks: Angular, Symfony, React
 - 💻 OS: Windows, Linux, MacOS
 - 📝 Editors/IDE: VSCode, VIM, Visual Studio, IntelliJ IDEA
-- 🛢️Database Clients: phpmyadmin, DataGrip, MySQL Workbench
+- 🛢️ Database Clients: phpmyadmin, DataGrip, MySQL Workbench
+- 🖥️ Virtual Machines: VirtualBox, Docker, VMWare, Linux KVM
 - 🔨 Project Management: JIRA, Confluence, Asana, Trello
 - 🛒 Projects:
   - ERP/BOM - [MRT](https://www.mrt.com.au) c/o [AboveDigital](https://abovedigital.co)
