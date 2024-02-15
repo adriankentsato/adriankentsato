@@ -17,8 +17,8 @@ I'm Kent, a full stack software developer. I'm in the industry for 6 years.
 - 🖥️ Virtual Machines: VirtualBox, Docker, VMWare, Linux KVM
 - 🔨 Project Management: JIRA, Confluence, Asana, Trello
 - 🛒 Projects:
-  - ERP/BOM - [MRT](https://www.mrt.com.au) c/o [AboveDigital](https://abovedigital.co)
-  - Survey - [Whatnextology](https://www.whatnextology.com) c/o [AboveDigital](https://abovedigital.co)
+  - ERP/BOM - [MRT](https://www.mrt.com.au) c/o [AboveDigital](https://abovedigital.co) - [ERP PORTAL](https://ewb-dev.mrt.com.au) - [EDA PORTAL](https://eda-dev.mrt.com.au)
+  - Survey - [Whatnextology](https://www.whatnextology.com) c/o [AboveDigital](https://abovedigital.co) - [Wayfinder](https://wayfinder.whatnextology.com/momentum.jsp)
   - ERP/CRM - [Radiant Global Logistics](https://radiantdelivers.com)
 
 <!--
