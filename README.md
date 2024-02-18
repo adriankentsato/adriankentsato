@@ -4,6 +4,7 @@ I'm Kent, a full stack software developer. I'm in the industry for 6 years.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/kentscientist)
 👨‍💻 [Exercism](https://exercism.org/profiles/adriankentsato)
+🚩 [picoCTF](https://play.picoctf.org/users/kas_xxempl)
 
 - 🔭 I’m currently working on my portfolio
 - 😄 Pronouns: he/him
