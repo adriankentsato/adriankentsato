@@ -4,18 +4,19 @@
 <h3 align="center">I'm a passionate full-stack engineer from the Philippines</h3>
 <h4 align="center">I'm working remotely since 2017 🚀</h3>
   
-
-- 🔭 I’m currently working on **my portfolio**
-- 😄 Pronouns **he/him**
-- 🌱 I’m currently learning **Rust, Python**
-- ⌨️ Languages **Javascript, Typescript, PHP, Java, Kotlin, Shell, ASM, C, C++, C#, YAML, HTML, CSS, Dataweave**
-- ⚙️ Technologies **AWS, Mulesoft, CircleCI, Docker, Azure, SQL(MySQL, PostgreSQL), NodeJS, Apache, Tomcat, Kafka**
-- 🚩 Frameworks **Angular, Symfony, React, express, serverless**
-- 📝 Editors/IDE **VSCode, NVIM, Visual Studio, IntelliJ IDEA**
-- 🛢️ Database Clients **phpmyadmin, DataGrip, MySQL Workbench, HeidiSQL**
-- 💻 OS **Windows, Linux, MacOS**
-- 🔨 Project Management **JIRA, Confluence, Asana, Trello**
-- ⚡ Fun fact **I use spaces over tabs**  
+<ul>
+  <li>🔭 I’m currently working on **my portfolio**</li>
+  <li>😄 Pronouns **he/him**</li>
+  <li>🌱 I’m currently learning **Rust, Python**</li>
+  <li>⌨️ Languages **Javascript, Typescript, PHP, Java, Kotlin, Shell, ASM, C, C++, C#, YAML, HTML, CSS, Dataweave**</li>
+  <li>⚙️ Technologies **AWS, Mulesoft, CircleCI, Docker, Azure, SQL(MySQL, PostgreSQL), NodeJS, Apache, Tomcat, Kafka**</li>
+  <li>🚩 Frameworks **Angular, Symfony, React, express, serverless**</li>
+  <li>📝 Editors/IDE **VSCode, NVIM, Visual Studio, IntelliJ IDEA**</li>
+  <li>🛢️ Database Clients **phpmyadmin, DataGrip, MySQL Workbench, HeidiSQL**</li>
+  <li>💻 OS **Windows, Linux, MacOS**</li>
+  <li>🔨 Project Management **JIRA, Confluence, Asana, Trello**</li>
+  <li>⚡ Fun fact **I use spaces over tabs**</li>
+</ul>
   
 
 - 🛒 Projects
