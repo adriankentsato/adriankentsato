@@ -5,17 +5,17 @@
 <h4 align="center">I'm working remotely since 2017 🚀</h3>
   
 <ul>
-  <li>🔭 I’m currently working on **my portfolio**</li>
-  <li>😄 Pronouns **he/him**</li>
-  <li>🌱 I’m currently learning **Rust, Python**</li>
-  <li>⌨️ Languages **Javascript, Typescript, PHP, Java, Kotlin, Shell, ASM, C, C++, C#, YAML, HTML, CSS, Dataweave**</li>
-  <li>⚙️ Technologies **AWS, Mulesoft, CircleCI, Docker, Azure, SQL(MySQL, PostgreSQL), NodeJS, Apache, Tomcat, Kafka**</li>
-  <li>🚩 Frameworks **Angular, Symfony, React, express, serverless**</li>
-  <li>📝 Editors/IDE **VSCode, NVIM, Visual Studio, IntelliJ IDEA**</li>
-  <li>🛢️ Database Clients **phpmyadmin, DataGrip, MySQL Workbench, HeidiSQL**</li>
-  <li>💻 OS **Windows, Linux, MacOS**</li>
-  <li>🔨 Project Management **JIRA, Confluence, Asana, Trello**</li>
-  <li>⚡ Fun fact **I use spaces over tabs**</li>
+  <li>🔭 I’m currently working on <b>my portfolio</b></li>
+  <li>😄 Pronouns <b>he/him</b></li>
+  <li>🌱 I’m currently learning <b>Rust, Python</b></li>
+  <li>⌨️ Languages <b>Javascript, Typescript, PHP, Java, Kotlin, Shell, ASM, C, C++, C#, YAML, HTML, CSS, Dataweave</b></li>
+  <li>⚙️ Technologies <b>AWS, Mulesoft, CircleCI, Docker, Azure, SQL(MySQL, PostgreSQL), NodeJS, Apache, Tomcat, Kafka</b></li>
+  <li>🚩 Frameworks <b>Angular, Symfony, React, express, serverless</b></li>
+  <li>📝 Editors/IDE <b>VSCode, NVIM, Visual Studio, IntelliJ IDEA</b></li>
+  <li>🛢️ Database Clients <b>phpmyadmin, DataGrip, MySQL Workbench, HeidiSQL</b></li>
+  <li>💻 OS <b>Windows, Linux, MacOS</b></li>
+  <li>🔨 Project Management <b>JIRA, Confluence, Asana, Trello</b></li>
+  <li>⚡ Fun fact <b>I use spaces over tabs</b></li>
 </ul>
   
 
