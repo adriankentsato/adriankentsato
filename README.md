@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kent</h1>  
   
 
-<h3 align="center">I'm a passionate full-stack engineer from the Philippines</h3>
+<h3 align="center">I'm a passionate full-stack engineer from the Philippines 🇵🇭</h3>
 <h4 align="center">I'm working remotely since 2017 🚀</h3>
   
 <ul>
   <li>🔭 I’m currently working on <b>my portfolio</b></li>
-  <li>😄 Pronouns <b>he/him</b></li>
   <li>🌱 I’m currently learning <b>Rust, Python</b></li>
   <li>⌨️ Languages <b>Javascript, Typescript, PHP, Java, Kotlin, Shell, ASM, C, C++, C#, YAML, HTML, CSS, Dataweave</b></li>
   <li>⚙️ Technologies <b>AWS, Mulesoft, CircleCI, Docker, Azure, SQL(MySQL, PostgreSQL), NodeJS, Apache, Tomcat, Kafka</b></li>
   <li>🚩 Frameworks <b>Angular, Symfony, React, express, serverless</b></li>
   <li>📝 Editors/IDE <b>VSCode, NVIM, Visual Studio, IntelliJ IDEA</b></li>
   <li>🛢️ Database Clients <b>phpmyadmin, DataGrip, MySQL Workbench, HeidiSQL</b></li>
-  <li>💻 OS <b>Windows, Linux, MacOS</b></li>
+  <li>💻 OS 💻 <b>Windows, Linux, MacOS</b></li>
   <li>🔨 Project Management <b>JIRA, Confluence, Asana, Trello</b></li>
-  <li>⚡ Fun fact <b>I use spaces over tabs</b></li>
 </ul>
   
 
