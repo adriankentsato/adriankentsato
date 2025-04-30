@@ -2,7 +2,7 @@
   
 
 <h3 align="center">I'm a passionate full-stack engineer from the Philippines 🇵🇭</h3>
-<h4 align="center">I'm working remotely since 2017 🚀</h3>
+<h4 align="center">🚀 I'm working remotely since 2017 🚀</h3>
   
 <ul>
   <li>🔭 I’m currently working on <b>my portfolio</b></li>
