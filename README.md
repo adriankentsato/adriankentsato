@@ -160,8 +160,13 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center">
-  <img  alt="adriankentsato's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/adriankentsato?cardType=level&theme=dracula&preferLogin=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adriankentsato&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&locale=en" height="150" alt="languages graph"  />
-</div>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adriankentsato&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adriankentsato&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adriankentsato&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adriankentsato&limit=5&theme=dracula&combine_all_yearly_contributions=true)
