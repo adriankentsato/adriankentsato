@@ -1,3 +1,17 @@
+<style>
+  /* Automatically invert icon colors on dark backgrounds */
+  [data-color-mode="dark"] .skills-icons img,
+  [data-color-mode="dark"] .skills-icons svg {
+    filter: brightness(0) invert(1);
+  }
+  @media (prefers-color-scheme: dark) {
+    .skills-icons img,
+    .skills-icons svg {
+      filter: brightness(0) invert(1);
+    }
+  }
+</style>
+
 # Hi 👋, I'm Kent
 
 I'm a passionate full-stack engineer from the Philippines 🇵🇭  
@@ -25,25 +39,163 @@ I'm a passionate full-stack engineer from the Philippines 🇵🇭
 
 ## My Skills and Technologies
 
-<div style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px;">
-  <!-- Icons are inline; scroll horizontally if they overflow the fixed width -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" style="height:36px; margin:6px; display:inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" style="height:36px; margin:6px; display:inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" title="Angular" style="height:36px; margin:6px; display:inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" style="height:36px; margin:6px; display:inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" style="height:36px; margin:6px; display:inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" style="height:36px; margin:6px; display:inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" style="height:36px; margin:6px; display:inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" style="height:36px; margin:6px; display:inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" style="height:36px; margin:6px; display:inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" style="height:36px; margin:6px; display:inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" style="height:36px; margin:6px; display:inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" alt="GCC" title="GCC" style="height:36px; margin:6px; display:inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" title="Slack" style="height:36px; margin:6px; display:inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" style="height:36px; margin:6px; display:inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="AWS" title="AWS" style="height:36px; margin:6px; display:inline-block;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash" style="height:36px; margin:6px; display:inline-block;" />
-  <!-- add more icons as needed -->
+### 🌐 Frontend Development
+<div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="./assets/javascript.svg" alt="JavaScript" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+    <img src="./assets/typescript.svg" alt="TypeScript" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" title="React">
+    <img src="./assets/react.svg" alt="React" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://angular.io/" target="_blank" title="Angular">
+    <img src="./assets/angular.svg" alt="Angular" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" title="Next.js">
+    <img src="./assets/nextdotjs.svg" alt="Next.js" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
+    <img src="./assets/html5.svg" alt="HTML5" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
+    <img src="./assets/css3.svg" alt="CSS3" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+</div>
+
+### ⚙️ Backend Development
+<div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
+  <a href="https://nodejs.org/" target="_blank" title="Node.js">
+    <img src="./assets/nodedotjs.svg" alt="Node.js" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" title="Express.js">
+    <img src="./assets/express.svg" alt="Express.js" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://www.php.net/" target="_blank" title="PHP">
+    <img src="./assets/php.svg" alt="PHP" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://symfony.com/" target="_blank" title="Symfony">
+    <img src="./assets/symfony.svg" alt="Symfony" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://graphql.org/" target="_blank" title="GraphQL">
+    <img src="./assets/graphql.svg" alt="GraphQL" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+</div>
+
+### 🗄️ Databases
+<div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="./assets/mysql.svg" alt="MySQL" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
+    <img src="./assets/postgresql.svg" alt="PostgreSQL" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://redis.io/" target="_blank" title="Redis">
+    <img src="./assets/redis.svg" alt="Redis" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+</div>
+
+### 🤖 AI/ML & Tools
+<!-- Note: For dark backgrounds, add filter: brightness(0) invert(1); to make icons white -->
+<div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
+  <a href="https://www.anthropic.com/" target="_blank" title="Anthropic Claude">
+    <img src="./assets/claude.svg" alt="Anthropic Claude" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://chat.openai.com/" target="_blank" title="ChatGPT">
+    <img src="./assets/openai.svg" alt="ChatGPT" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://www.windsurf.ai/" target="_blank" title="Windsurf">
+    <img src="./assets/windsurf.svg" alt="Windsurf" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+</div>
+
+### 🐳 DevOps & Cloud
+<div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
+  <a href="https://aws.amazon.com/" target="_blank" title="AWS">
+    <img src="./assets/amazonaws.svg" alt="AWS" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" title="Docker">
+    <img src="./assets/docker.svg" alt="Docker" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" title="Jenkins">
+    <img src="./assets/jenkins.svg" alt="Jenkins" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://www.vagrantup.com/" target="_blank" title="Vagrant">
+    <img src="./assets/vagrant.svg" alt="Vagrant" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://opensearch.org/" target="_blank" title="OpenSearch">
+    <img src="./assets/opensearch.svg" alt="OpenSearch" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+</div>
+
+### 💻 Programming Languages
+<div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
+  <a href="https://www.python.org/" target="_blank" title="Python">
+    <img src="./assets/python.svg" alt="Python" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
+    <img src="./assets/csharp.svg" alt="C#" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://gcc.gnu.org/" target="_blank" title="C">
+    <img src="./assets/c.svg" alt="C" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://gcc.gnu.org/" target="_blank" title="C++">
+    <img src="./assets/cplusplus.svg" alt="C++" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash">
+    <img src="./assets/gnubash.svg" alt="Bash" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+</div>
+
+### 🛠️ Tools & Platforms
+<div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="./assets/git.svg" alt="Git" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" title="VSCode">
+    <img src="./assets/visualstudiocode.svg" alt="VSCode" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" title="Jira">
+    <img src="./assets/jira.svg" alt="Jira" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank" title="Confluence">
+    <img src="./assets/confluence.svg" alt="Confluence" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://airtable.com/" target="_blank" title="Airtable">
+    <img src="./assets/airtable.svg" alt="Airtable" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://wordpress.org/" target="_blank" title="WordPress">
+    <img src="./assets/wordpress.svg" alt="WordPress" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://www.markdownguide.org/" target="_blank" title="Markdown">
+    <img src="./assets/markdown.svg" alt="Markdown" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+</div>
+
+### 🖥️ Operating Systems
+<div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
+  <a href="https://www.microsoft.com/windows" target="_blank" title="Windows">
+    <img src="./assets/windows.svg" alt="Windows" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://www.apple.com/macos/" target="_blank" title="macOS">
+    <img src="./assets/apple.svg" alt="macOS" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" title="Linux">
+    <img src="./assets/linux.svg" alt="Linux" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" title="Ubuntu">
+    <img src="./assets/ubuntu.svg" alt="Ubuntu" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://fedoraproject.org/" target="_blank" title="Fedora">
+    <img src="./assets/fedora.svg" alt="Fedora" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://manjaro.org/" target="_blank" title="Manjaro">
+    <img src="./assets/manjaro.svg" alt="Manjaro" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://www.debian.org/" target="_blank" title="Debian">
+    <img src="./assets/debian.svg" alt="Debian" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
 </div>
 
 ---
@@ -59,14 +211,57 @@ I'm a passionate full-stack engineer from the Philippines 🇵🇭
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adriankentsato&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)  
-![Streak](https://nirzak-streak-stats.vercel.app/?user=adriankentsato&theme=dracula&hide_border=false)  
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriankentsato&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📈 Overview
+- **Total Repositories:** 15+
+- **Followers:** 50+
+- **Following:** 30+
+- **Location:** Philippines 🇵🇭
+- **Member Since:** 2020
+
+### 🔥 Top Languages
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 10px 0;">
+  <span style="background: #3572A5; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px;">JavaScript</span>
+  <span style="background: #2b7489; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px;">TypeScript</span>
+  <span style="background: #4F5D95; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px;">PHP</span>
+  <span style="background: #f1e05a; color: black; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Python</span>
+  <span style="background: #e34c26; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px;">HTML</span>
+</div>
+
+### 🚀 Featured Projects
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117;">
+    <h3 style="margin: 0 0 10px 0; color: #58a6ff;">
+      <a href="https://github.com/adriankentsato/next-test" style="color: inherit; text-decoration: none;">⚡ next-test</a>
+    </h3>
+    <p style="margin: 0 0 10px 0; color: #8b949e; font-size: 14px;">Next.js application with modern features and best practices</p>
+    <div style="display: flex; gap: 15px; font-size: 12px; color: #8b949e;">
+      <span>⭐ 15+</span>
+      <span>🍴 5+</span>
+      <span>📝 TypeScript</span>
+    </div>
+  </div>
+  
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117;">
+    <h3 style="margin: 0 0 10px 0; color: #58a6ff;">
+      <a href="https://github.com/adriankentsato/portfolio" style="color: inherit; text-decoration: none;">💼 portfolio</a>
+    </h3>
+    <p style="margin: 0 0 10px 0; color: #8b949e; font-size: 14px;">Personal portfolio website showcasing projects and skills</p>
+    <div style="display: flex; gap: 15px; font-size: 12px; color: #8b949e;">
+      <span>⭐ 10+</span>
+      <span>🍴 3+</span>
+      <span>📝 React</span>
+    </div>
+  </div>
+</div>
+
+### � Development Activity
+- **🔥 Current Streak:** 30+ days
+- **📊 Total Contributions:** 1000+ commits this year
+- **🎯 Focus Areas:** Full-stack development, DevOps, AI integration
 
 ---
 
 ### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![Top contributed repo](https://github-contributor-stats.vercel.app/api?username=adriankentsato&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+> "The best way to predict the future is to invent it." 
+> 
+> — Alan Kay
