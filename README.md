@@ -28,57 +28,57 @@ I'm a passionate full-stack engineer from the Philippines 🇵🇭
 ### 🌐 Frontend Development
 <div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="./assets/javascript.svg" alt="JavaScript" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/javascript.svg" alt="JavaScript" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-    <img src="./assets/typescript.svg" alt="TypeScript" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/typescript.svg" alt="TypeScript" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://reactjs.org/" target="_blank" title="React">
-    <img src="./assets/react.svg" alt="React" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/react.svg" alt="React" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://angular.io/" target="_blank" title="Angular">
-    <img src="./assets/angular.svg" alt="Angular" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/angular.svg" alt="Angular" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://nextjs.org/" target="_blank" title="Next.js">
-    <img src="./assets/nextdotjs.svg" alt="Next.js" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/nextdotjs.svg" alt="Next.js" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
-    <img src="./assets/html5.svg" alt="HTML5" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/html5.svg" alt="HTML5" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
-    <img src="./assets/css3.svg" alt="CSS3" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/css3.svg" alt="CSS3" style="height:36px; margin:6px; display:inline-block;" />
   </a>
 </div>
 
 ### ⚙️ Backend Development
 <div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
   <a href="https://nodejs.org/" target="_blank" title="Node.js">
-    <img src="./assets/nodedotjs.svg" alt="Node.js" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/nodedotjs.svg" alt="Node.js" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://expressjs.com/" target="_blank" title="Express.js">
-    <img src="./assets/express.svg" alt="Express.js" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/express.svg" alt="Express.js" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://www.php.net/" target="_blank" title="PHP">
-    <img src="./assets/php.svg" alt="PHP" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/php.svg" alt="PHP" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://symfony.com/" target="_blank" title="Symfony">
-    <img src="./assets/symfony.svg" alt="Symfony" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/symfony.svg" alt="Symfony" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://graphql.org/" target="_blank" title="GraphQL">
-    <img src="./assets/graphql.svg" alt="GraphQL" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/graphql.svg" alt="GraphQL" style="height:36px; margin:6px; display:inline-block;" />
   </a>
 </div>
 
 ### 🗄️ Databases
 <div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
   <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="./assets/mysql.svg" alt="MySQL" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/mysql.svg" alt="MySQL" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
-    <img src="./assets/postgresql.svg" alt="PostgreSQL" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/postgresql.svg" alt="PostgreSQL" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://redis.io/" target="_blank" title="Redis">
-    <img src="./assets/redis.svg" alt="Redis" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/redis.svg" alt="Redis" style="height:36px; margin:6px; display:inline-block;" />
   </a>
 </div>
 
@@ -86,101 +86,101 @@ I'm a passionate full-stack engineer from the Philippines 🇵🇭
 <!-- Note: For dark backgrounds, add filter: brightness(0) invert(1); to make icons white -->
 <div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
   <a href="https://www.anthropic.com/" target="_blank" title="Anthropic Claude">
-    <img src="./assets/claude.svg" alt="Anthropic Claude" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/claude.svg" alt="Anthropic Claude" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://chat.openai.com/" target="_blank" title="ChatGPT">
-    <img src="./assets/openai.svg" alt="ChatGPT" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/openai.svg" alt="ChatGPT" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://www.windsurf.ai/" target="_blank" title="Windsurf">
-    <img src="./assets/windsurf.svg" alt="Windsurf" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/windsurf.svg" alt="Windsurf" style="height:36px; margin:6px; display:inline-block;" />
   </a>
 </div>
 
 ### 🐳 DevOps & Cloud
 <div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
   <a href="https://aws.amazon.com/" target="_blank" title="AWS">
-    <img src="./assets/amazonaws.svg" alt="AWS" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/amazonaws.svg" alt="AWS" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://www.docker.com/" target="_blank" title="Docker">
-    <img src="./assets/docker.svg" alt="Docker" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/docker.svg" alt="Docker" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://www.jenkins.io/" target="_blank" title="Jenkins">
-    <img src="./assets/jenkins.svg" alt="Jenkins" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/jenkins.svg" alt="Jenkins" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://www.vagrantup.com/" target="_blank" title="Vagrant">
-    <img src="./assets/vagrant.svg" alt="Vagrant" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/vagrant.svg" alt="Vagrant" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://opensearch.org/" target="_blank" title="OpenSearch">
-    <img src="./assets/opensearch.svg" alt="OpenSearch" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/opensearch.svg" alt="OpenSearch" style="height:36px; margin:6px; display:inline-block;" />
   </a>
 </div>
 
 ### 💻 Programming Languages
 <div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
   <a href="https://www.python.org/" target="_blank" title="Python">
-    <img src="./assets/python.svg" alt="Python" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/python.svg" alt="Python" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
-    <img src="./assets/csharp.svg" alt="C#" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/csharp.svg" alt="C#" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://gcc.gnu.org/" target="_blank" title="C">
-    <img src="./assets/c.svg" alt="C" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/c.svg" alt="C" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://gcc.gnu.org/" target="_blank" title="C++">
-    <img src="./assets/cplusplus.svg" alt="C++" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/cplusplus.svg" alt="C++" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash">
-    <img src="./assets/gnubash.svg" alt="Bash" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/gnubash.svg" alt="Bash" style="height:36px; margin:6px; display:inline-block;" />
   </a>
 </div>
 
 ### 🛠️ Tools & Platforms
 <div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
   <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="./assets/git.svg" alt="Git" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/git.svg" alt="Git" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" title="VSCode">
-    <img src="./assets/visualstudiocode.svg" alt="VSCode" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/visualstudiocode.svg" alt="VSCode" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" title="Jira">
-    <img src="./assets/jira.svg" alt="Jira" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/jira.svg" alt="Jira" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank" title="Confluence">
-    <img src="./assets/confluence.svg" alt="Confluence" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/confluence.svg" alt="Confluence" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://airtable.com/" target="_blank" title="Airtable">
-    <img src="./assets/airtable.svg" alt="Airtable" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/airtable.svg" alt="Airtable" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://wordpress.org/" target="_blank" title="WordPress">
-    <img src="./assets/wordpress.svg" alt="WordPress" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/wordpress.svg" alt="WordPress" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://www.markdownguide.org/" target="_blank" title="Markdown">
-    <img src="./assets/markdown.svg" alt="Markdown" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/markdown.svg" alt="Markdown" style="height:36px; margin:6px; display:inline-block;" />
   </a>
 </div>
 
 ### 🖥️ Operating Systems
 <div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
   <a href="https://www.microsoft.com/windows" target="_blank" title="Windows">
-    <img src="./assets/windows.svg" alt="Windows" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/windows.svg" alt="Windows" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://www.apple.com/macos/" target="_blank" title="macOS">
-    <img src="./assets/apple.svg" alt="macOS" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/apple.svg" alt="macOS" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://www.linux.org/" target="_blank" title="Linux">
-    <img src="./assets/linux.svg" alt="Linux" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/linux.svg" alt="Linux" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://ubuntu.com/" target="_blank" title="Ubuntu">
-    <img src="./assets/ubuntu.svg" alt="Ubuntu" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/ubuntu.svg" alt="Ubuntu" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://fedoraproject.org/" target="_blank" title="Fedora">
-    <img src="./assets/fedora.svg" alt="Fedora" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/fedora.svg" alt="Fedora" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://manjaro.org/" target="_blank" title="Manjaro">
-    <img src="./assets/manjaro.svg" alt="Manjaro" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/manjaro.svg" alt="Manjaro" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://www.debian.org/" target="_blank" title="Debian">
-    <img src="./assets/debian.svg" alt="Debian" style="height:36px; margin:6px; display:inline-block; filter: brightness(0) invert(1);" />
+    <img src="./assets/debian.svg" alt="Debian" style="height:36px; margin:6px; display:inline-block;" />
   </a>
 </div>
 
