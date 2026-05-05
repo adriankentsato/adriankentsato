@@ -1,25 +1,16 @@
 # Hi 👋, I'm Kent
 
-I'm a passionate full-stack engineer from the Philippines 🇵🇭  
-**🚀 Working remotely since 2017**
+**Senior Full Stack Engineer | Systems Architect | AI-Augmented Developer**  
+Cebu, Philippines 🇵🇭 | **8+ years building production systems**
 
-- 🔭 I’m currently working on **my portfolio**
-- 🌱 I’m currently learning **Rust, Python**
-- ⌨️ Languages: **JavaScript, TypeScript, PHP, Java, Kotlin, Shell, ASM, C, C++, C#, YAML, HTML, CSS, DataWeave**
-- ⚙️ Technologies: **AWS, Mulesoft, CircleCI, Docker, Azure, MySQL, PostgreSQL, Node.js, Apache, Tomcat, Kafka**
-- 🚩 Frameworks: **Angular, Symfony, React, Express, Serverless**
-- 📝 Editors/IDE: **VSCode, NVIM, Visual Studio, IntelliJ IDEA**
-- 🛢️ Database Clients: **phpMyAdmin, DataGrip, MySQL Workbench, HeidiSQL**
+- 🔭 Currently at **Radiant Logistics Inc.** — leading digital transformation across US/PH engineering teams
+- 🌱 AI-augmented development with **Windsurf IDE, Claude, GPT-5**
+- ⌨️ Languages: **JavaScript, TypeScript, PHP, Java, C/C++/C#, Bash, HTML/CSS**
+- ⚙️ Technologies: **AWS (Lambda, API Gateway, S3), Docker, PostgreSQL, MySQL, OpenSearch, Apache Kafka**
+- 🚩 Frameworks: **Angular, Node.js, Express, React**
+- 📝 Editors/IDE: **Windsurf IDE, VSCode, NVIM**
 - 💻 OS: **Windows, Linux, macOS**
-- 🔨 Project Management: **JIRA, Confluence, Asana, Trello**
-
-## Projects
-- **ERP/BOM** — [MRT](https://www.mrt.com.au) c/o [AboveDigital](https://abovedigital.co)  
-  - ERP PORTAL: https://ewb-dev.mrt.com.au  
-  - EDA PORTAL: https://eda-dev.mrt.com.au
-- **Survey** — [Whatnextology](https://www.whatnextology.com) c/o [AboveDigital](https://abovedigital.co)  
-  - Wayfinder: https://wayfinder.whatnextology.com/momentum.jsp
-- **ERP/CRM** — [Radiant Global Logistics](https://radiantdelivers.com)
+- 🔨 Project Management: **JIRA, Confluence, Airtable, Agile/Scrum**
 
 ---
 
@@ -69,7 +60,7 @@ I'm a passionate full-stack engineer from the Philippines 🇵🇭
   </a>
 </div>
 
-### 🗄️ Databases
+### 🗄️ Databases & Search
 <div class="skills-icons" style="max-width:900px; overflow-x:auto; white-space:nowrap; padding:8px; border:1px solid #eee; border-radius:6px; margin-bottom:16px;">
   <a href="https://www.mysql.com/" target="_blank" title="MySQL">
     <img src="./assets/mysql.svg" alt="MySQL" style="height:36px; margin:6px; display:inline-block;" />
@@ -79,6 +70,9 @@ I'm a passionate full-stack engineer from the Philippines 🇵🇭
   </a>
   <a href="https://redis.io/" target="_blank" title="Redis">
     <img src="./assets/redis.svg" alt="Redis" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://opensearch.org/" target="_blank" title="OpenSearch">
+    <img src="./assets/opensearch.svg" alt="OpenSearch" style="height:36px; margin:6px; display:inline-block;" />
   </a>
 </div>
 
@@ -90,6 +84,18 @@ I'm a passionate full-stack engineer from the Philippines 🇵🇭
   </a>
   <a href="https://chat.openai.com/" target="_blank" title="ChatGPT">
     <img src="./assets/openai.svg" alt="ChatGPT" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://gemini.google.com/" target="_blank" title="Google Gemini">
+    <img src="./assets/gemini.svg" alt="Google Gemini" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://www.nvidia.com/" target="_blank" title="NVIDIA NIM">
+    <img src="./assets/nvidia.svg" alt="NVIDIA NIM" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://ollama.com/" target="_blank" title="Ollama">
+    <img src="./assets/ollama.svg" alt="Ollama" style="height:36px; margin:6px; display:inline-block;" />
+  </a>
+  <a href="https://openrouter.ai/" target="_blank" title="OpenRouter">
+    <img src="./assets/openrouter.svg" alt="OpenRouter" style="height:36px; margin:6px; display:inline-block;" />
   </a>
   <a href="https://www.windsurf.ai/" target="_blank" title="Windsurf">
     <img src="./assets/windsurf.svg" alt="Windsurf" style="height:36px; margin:6px; display:inline-block;" />
@@ -197,14 +203,7 @@ I'm a passionate full-stack engineer from the Philippines 🇵🇭
 
 ## 📊 GitHub Stats
 
-### 📈 Overview
-- **Total Repositories:** 15+
-- **Followers:** 50+
-- **Following:** 30+
-- **Location:** Philippines 🇵🇭
-- **Member Since:** 2020
-
-### 🔥 Top Languages
+###  Top Languages
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 10px 0;">
   <span style="background: #3572A5; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px;">JavaScript</span>
   <span style="background: #2b7489; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px;">TypeScript</span>
@@ -213,37 +212,70 @@ I'm a passionate full-stack engineer from the Philippines 🇵🇭
   <span style="background: #e34c26; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px;">HTML</span>
 </div>
 
+### 🎯 Career Highlights
+- **Promoted Junior → Senior in 3 years** at AboveDigital through consistent delivery and expanding ownership
+- **Architected ERP from scratch** scaling to 1,000+ concurrent users at 99.9% uptime
+- **Cut onboarding time by 60%** through structured SOPs and API documentation
+- **AI-augmented development** with Windsurf IDE, Claude, GPT-5 — reducing implementation time by 25-35%
+
 ### 🚀 Featured Projects
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
   <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117;">
     <h3 style="margin: 0 0 10px 0; color: #58a6ff;">
-      <a href="https://github.com/adriankentsato/next-test" style="color: inherit; text-decoration: none;">⚡ next-test</a>
+      🤖 AI Harness
     </h3>
-    <p style="margin: 0 0 10px 0; color: #8b949e; font-size: 14px;">Next.js application with modern features and best practices</p>
+    <p style="margin: 0 0 10px 0; color: #8b949e; font-size: 14px;">Unified TypeScript AI harness supporting OpenAI, Claude, NVIDIA NIM, OpenRouter, and Ollama with streaming and auto-routing</p>
     <div style="display: flex; gap: 15px; font-size: 12px; color: #8b949e;">
-      <span>⭐ 15+</span>
-      <span>🍴 5+</span>
       <span>📝 TypeScript</span>
+      <span>🔄 Streaming</span>
+      <span>🌐 Multi-Provider</span>
     </div>
   </div>
-  
+
   <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117;">
     <h3 style="margin: 0 0 10px 0; color: #58a6ff;">
-      <a href="https://github.com/adriankentsato/portfolio" style="color: inherit; text-decoration: none;">💼 portfolio</a>
+      ⚡ next-test
     </h3>
-    <p style="margin: 0 0 10px 0; color: #8b949e; font-size: 14px;">Personal portfolio website showcasing projects and skills</p>
+    <p style="margin: 0 0 10px 0; color: #8b949e; font-size: 14px;">Next.js 16 application with SQLite database, JWT authentication, and comprehensive test coverage</p>
     <div style="display: flex; gap: 15px; font-size: 12px; color: #8b949e;">
-      <span>⭐ 10+</span>
-      <span>🍴 3+</span>
-      <span>📝 React</span>
+      <span>📝 TypeScript</span>
+      <span>🗄️ SQLite</span>
+      <span>🧪 Vitest</span>
+    </div>
+  </div>
+
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117;">
+    <h3 style="margin: 0 0 10px 0; color: #58a6ff;">
+      🚢 Radiant Logistics Migration
+    </h3>
+    <p style="margin: 0 0 10px 0; color: #8b949e; font-size: 14px;">Full system migration from PHP/MuleSoft to AWS Lambda and Node.js with zero downtime</p>
+    <div style="display: flex; gap: 15px; font-size: 12px; color: #8b949e;">
+      <span>☁️ AWS Lambda</span>
+      <span>🔄 Node.js</span>
+      <span>📊 OpenSearch</span>
+    </div>
+  </div>
+
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117;">
+    <h3 style="margin: 0 0 10px 0; color: #58a6ff;">
+      🏢 AboveDigital ERP
+    </h3>
+    <p style="margin: 0 0 10px 0; color: #8b949e; font-size: 14px;">Greenfield ERP system architected from scratch, scaling to 1,000+ concurrent users at 99.9% uptime</p>
+    <div style="display: flex; gap: 15px; font-size: 12px; color: #8b949e;">
+      <span>🏗️ System Architecture</span>
+      <span>🚀 99.9% Uptime</span>
+      <span>👥 1000+ Users</span>
     </div>
   </div>
 </div>
 
-### � Development Activity
-- **🔥 Current Streak:** 30+ days
-- **📊 Total Contributions:** 1000+ commits this year
-- **🎯 Focus Areas:** Full-stack development, DevOps, AI integration
+### 🎯 Focus Areas
+- Systems architecture and cloud infrastructure (AWS Lambda, API Gateway, S3)
+- AI-augmented development with Windsurf IDE, Claude, GPT-5
+- Full-stack development (Node.js, Angular, React, TypeScript)
+- Observability and logging (OpenSearch, Slack alerting, dashboards)
+- Event-driven architecture (Apache Kafka)
+- Team mentorship and technical leadership
 
 ---
 
